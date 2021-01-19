@@ -1,3 +1,10 @@
+###################################################################
+This library is modified to suppoer libc 2.27 or above 
+by Michiya-lab
+refere to
+https://src.fedoraproject.org/rpms/m4/blob/814d592134fad36df757f9a61422d164ea2c6c9b/f/m4-1.4.18-glibc-change-work-around.patch
+###################################################################
+
 GNU `m4' is an implementation of the traditional Unix macro
 processor.  It is mostly SVR4 compatible, although it has some
 extensions (for example, handling more than 9 positional parameters
